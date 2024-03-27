@@ -1,5 +1,27 @@
 {
-  "channels": [],
+  "channels": [
+    {
+      "manifestPath": "/content/screens/express/channels/channel-1.manifest.json",
+      "lastModified": "2024-03-27T16:04:16.000Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "express",
+          "path": "/content/screens/express"
+        },
+        {
+          "title": "channels",
+          "path": "/content/screens/express/channels"
+        }
+      ],
+      "externalId": "/content/screens/express/channels/channel-1",
+      "title": "Channel 1",
+      "liveUrl": "https://digital-experiences.aem-screens.net/content/screens/express/channels/channel-1.html"
+    }
+  ],
   "metadata": {
     "providerType": "franklin"
   }
