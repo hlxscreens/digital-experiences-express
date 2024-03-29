@@ -1,0 +1,67 @@
+{
+  "version": "3.0",
+  "timestamp": 1711705805594,
+  "entries": [
+    {
+      "path": "/blocks/carousel/carousel.css",
+      "timestamp": 1711548936000
+    },
+    {
+      "path": "/blocks/carousel/carousel.js",
+      "timestamp": 1711548936000
+    },
+    {
+      "path": "/blocks/carousel/utils.js",
+      "timestamp": 1711548936000
+    },
+    {
+      "path": "/blocks/columns/columns.css",
+      "timestamp": 1711548936000
+    },
+    {
+      "path": "/blocks/columns/columns.js",
+      "timestamp": 1711548936000
+    },
+    {
+      "path": "/content/screens/express/assets/c248d7bb-25eb-4fc6-80d3-a8ec158d697d.jpg",
+      "timestamp": 1711705637000
+    },
+    {
+      "path": "/content/screens/express/assets/cd12c6f4-7a6b-4041-8112-9fcfb85b5e15.jpg",
+      "timestamp": 1711705636000
+    },
+    {
+      "path": "/content/screens/express/channels/ee97ddfa-1a84-4d94-b77c-d6e3014a8aad.html",
+      "timestamp": 1711705805594
+    },
+    {
+      "path": "/content/screens/express/schedules/schedule-ee97ddfa-1a84-4d94-b77c-d6e3014a8aad.json",
+      "timestamp": 1711705670000
+    },
+    {
+      "path": "/scripts/delayed.js",
+      "timestamp": 1711548936000
+    },
+    {
+      "path": "/scripts/lib-franklin.js",
+      "timestamp": 1711548936000
+    },
+    {
+      "path": "/scripts/scripts.js",
+      "timestamp": 1711548936000
+    },
+    {
+      "path": "/styles/styles.css",
+      "timestamp": 1711548936000
+    }
+  ],
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "express",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "express"
+  }
+}
