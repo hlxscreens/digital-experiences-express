@@ -1,5 +1,5 @@
 {
-"server": "https://digital-experiences.aem-screens.net",
+"server": "https://org-gitesh-recognitions.aem-screens.com",
 "registrationKey": "",
 "device": "",
 "resolution": "auto",
@@ -14,6 +14,6 @@
 "enableAdvancedPlaybackMonitoring": false,
 "cloudMode": true,
 "cloudUrl": "https://screens-dev.adobeioruntime.net",
-"cloudToken": "9rhw-xqet-fhfd",
+"cloudToken": "5okj-ty65-dhk4",
 "enableDeveloperMode": true
 }
