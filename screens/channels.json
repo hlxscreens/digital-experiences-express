@@ -23,6 +23,6 @@
     }
   ],
   "metadata": {
-    "providerType": "franklin"
+    "providerType": "express"
   }
 }
