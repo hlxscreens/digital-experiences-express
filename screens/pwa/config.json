@@ -1,19 +1,19 @@
 {
-    "server": "<player-server-url>",
-    "registrationKey": "",
-    "resolution": "auto",
-    "rebootSchedule": "at 4:00 am",
-    "maxNumberOfLogFilesToKeep": 10,
-    "logLevel": 1,
-    "enableAdminUI": true,
-    "enableOSD": true,
-    "enableActivityUI": false,
-    "enableNativeVideo": false,
-    "enableAutoScreenshot": false,
-    "enableAdvancedPlaybackMonitoring": false,
-    "cloudMode": true,
-    "cloudUrl": "<namespace-url>",
-    "cloudToken": "<reg-code>",
-    "enableDeveloperMode": true
-  }
-  
+"server": "https://digital-experiences.aem-screens.net",
+"registrationKey": "",
+"device": "",
+"resolution": "auto",
+"rebootSchedule": "at 4:00 am",
+"maxNumberOfLogFilesToKeep": 10,
+"logLevel": 3,
+"enableAdminUI": true,
+"enableOSD": true,
+"enableActivityUI": false,
+"enableNativeVideo": false,
+"enableAutoScreenshot": false,
+"enableAdvancedPlaybackMonitoring": false,
+"cloudMode": true,
+"cloudUrl": "https://screens-dev.adobeioruntime.net",
+"cloudToken": "9rhw-xqet-fhfd",
+"enableDeveloperMode": true
+}
