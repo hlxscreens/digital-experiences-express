@@ -1,6 +1,27 @@
 {
   "channels": [
     {
+      "manifestPath": "/content/screens/express/channels/528827a1-cf2e-43ac-b272-7de853b10619.manifest.json",
+      "lastModified": "2024-04-08T19:01:37.948Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "express",
+          "path": "/content/screens/express"
+        },
+        {
+          "title": "channels",
+          "path": "/content/screens/express/channels"
+        }
+      ],
+      "externalId": "/content/screens/express/channels/528827a1-cf2e-43ac-b272-7de853b10619",
+      "title": "Corporate Event Poster",
+      "liveUrl": "https://digital-experiences.aem-screens.net/content/screens/express/channels/528827a1-cf2e-43ac-b272-7de853b10619.html"
+    },
+    {
       "manifestPath": "/content/screens/express/channels/channel-1.manifest.json",
       "lastModified": "2024-03-27T16:04:16.000Z",
       "hierarchy": [
