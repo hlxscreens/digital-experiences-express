@@ -1,6 +1,27 @@
 {
   "channels": [
     {
+      "manifestPath": "/content/screens/express/channels/a6b6abb9-99b7-5afc-ad43-ef940b7c0e10.manifest.json",
+      "lastModified": "2024-04-10T22:09:19.602Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "express",
+          "path": "/content/screens/express"
+        },
+        {
+          "title": "channels",
+          "path": "/content/screens/express/channels"
+        }
+      ],
+      "externalId": "/content/screens/express/channels/a6b6abb9-99b7-5afc-ad43-ef940b7c0e10",
+      "title": "DigiExhibits AEM x Express Test",
+      "liveUrl": "https://digital-experiences.aem-screens.net/content/screens/express/channels/a6b6abb9-99b7-5afc-ad43-ef940b7c0e10.html"
+    },
+    {
       "manifestPath": "/content/screens/express/channels/ec747039-c505-5975-9c63-7e5e7259db01.manifest.json",
       "lastModified": "2024-04-10T09:50:38.000Z",
       "hierarchy": [
