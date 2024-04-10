@@ -43,6 +43,27 @@
       "liveUrl": "https://digital-experiences.aem-screens.net/content/screens/express/channels/channel-1.html"
     },
     {
+      "manifestPath": "/content/screens/express/channels/ec747039-c505-5975-9c63-7e5e7259db01.manifest.json",
+      "lastModified": "2024-04-10T05:54:11.790Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "express",
+          "path": "/content/screens/express"
+        },
+        {
+          "title": "channels",
+          "path": "/content/screens/express/channels"
+        }
+      ],
+      "externalId": "/content/screens/express/channels/ec747039-c505-5975-9c63-7e5e7259db01",
+      "title": "Untitled - 19 March 2024 at 20.37.28",
+      "liveUrl": "https://digital-experiences.aem-screens.net/content/screens/express/channels/ec747039-c505-5975-9c63-7e5e7259db01.html"
+    },
+    {
       "manifestPath": "/content/screens/express/channels/ee97ddfa-1a84-4d94-b77c-d6e3014a8aad.manifest.json",
       "lastModified": "2024-03-29T09:50:09.000Z",
       "hierarchy": [

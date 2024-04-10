@@ -1,0 +1,63 @@
+{
+  "version": "3.0",
+  "timestamp": 1712728451790,
+  "entries": [
+    {
+      "path": "/blocks/carousel/carousel.css",
+      "timestamp": 1711548936000
+    },
+    {
+      "path": "/blocks/carousel/carousel.js",
+      "timestamp": 1711548936000
+    },
+    {
+      "path": "/blocks/carousel/utils.js",
+      "timestamp": 1711548936000
+    },
+    {
+      "path": "/blocks/columns/columns.css",
+      "timestamp": 1711548936000
+    },
+    {
+      "path": "/blocks/columns/columns.js",
+      "timestamp": 1711548936000
+    },
+    {
+      "path": "/content/screens/express/assets/db7c039b-bad8-44e2-91aa-338858fba689.jpg",
+      "timestamp": 1712728360000
+    },
+    {
+      "path": "/content/screens/express/channels/ec747039-c505-5975-9c63-7e5e7259db01.html",
+      "timestamp": 1712728451790
+    },
+    {
+      "path": "/content/screens/express/schedules/schedule-ec747039-c505-5975-9c63-7e5e7259db01.json",
+      "timestamp": 1712728377000
+    },
+    {
+      "path": "/scripts/delayed.js",
+      "timestamp": 1711548936000
+    },
+    {
+      "path": "/scripts/lib-franklin.js",
+      "timestamp": 1711548936000
+    },
+    {
+      "path": "/scripts/scripts.js",
+      "timestamp": 1711548936000
+    },
+    {
+      "path": "/styles/styles.css",
+      "timestamp": 1711548936000
+    }
+  ],
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "express",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "express"
+  }
+}
