@@ -18,8 +18,8 @@
         }
       ],
       "externalId": "/content/screens/express/channels/528827a1-cf2e-43ac-b272-7de853b10619",
-      "title": "Corporate Poster",
-      "liveUrl": "https://digital-experiences.aem-screens.net/content/screens/express/channels/528827a1-cf2e-43ac-b272-7de853b10619.html"
+      "liveUrl": "https://main--digital-experiences-express--hlxscreens.hlx.live/content/screens/express/channels/528827a1-cf2e-43ac-b272-7de853b10619",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/express/channels/bcd7e463-b174-5452-be4a-0c0aa4b71a09.manifest.json",
@@ -39,8 +39,8 @@
         }
       ],
       "externalId": "/content/screens/express/channels/bcd7e463-b174-5452-be4a-0c0aa4b71a09",
-      "title": "Health Checkup Poster",
-      "liveUrl": "https://digital-experiences.aem-screens.net/content/screens/express/channels/bcd7e463-b174-5452-be4a-0c0aa4b71a09.html"
+      "liveUrl": "https://main--digital-experiences-express--hlxscreens.hlx.live/content/screens/express/channels/bcd7e463-b174-5452-be4a-0c0aa4b71a09",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/express/channels/channel-1.manifest.json",
@@ -102,8 +102,8 @@
         }
       ],
       "externalId": "/content/screens/express/channels/ee97ddfa-1a84-4d94-b77c-d6e3014a8aad",
-      "title": "Graduation Ceremony",
-      "liveUrl": "https://digital-experiences.aem-screens.net/content/screens/express/channels/ee97ddfa-1a84-4d94-b77c-d6e3014a8aad.html"
+      "liveUrl": "https://main--digital-experiences-express--hlxscreens.hlx.live/content/screens/express/channels/ee97ddfa-1a84-4d94-b77c-d6e3014a8aad",
+      "title": ""
     }
   ],
   "metadata": {
