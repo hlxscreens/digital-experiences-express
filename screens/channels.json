@@ -1,6 +1,27 @@
 {
   "channels": [
     {
+      "manifestPath": "/content/screens/express/channels/1e6c83ce-92f4-48e6-b52f-abd4d09f1b39.manifest.json",
+      "lastModified": "2024-04-11T15:01:27.215Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "express",
+          "path": "/content/screens/express"
+        },
+        {
+          "title": "channels",
+          "path": "/content/screens/express/channels"
+        }
+      ],
+      "externalId": "/content/screens/express/channels/1e6c83ce-92f4-48e6-b52f-abd4d09f1b39",
+      "title": "[Testing] Sahil's Channel",
+      "liveUrl": "https://digital-experiences.aem-screens.net/content/screens/express/channels/1e6c83ce-92f4-48e6-b52f-abd4d09f1b39.html"
+    },
+    {
       "manifestPath": "/content/screens/express/channels/44b9aa2e-b712-5e97-9491-39614610dee2.manifest.json",
       "lastModified": "2024-04-11T08:40:38.000Z",
       "hierarchy": [
