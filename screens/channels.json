@@ -2,7 +2,7 @@
   "channels": [
     {
       "manifestPath": "/content/screens/express/channels/1e6c83ce-92f4-48e6-b52f-abd4d09f1b39.manifest.json",
-      "lastModified": "2024-04-11T15:01:27.215Z",
+      "lastModified": "2024-04-11T15:01:35.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -41,6 +41,27 @@
       "externalId": "/content/screens/express/channels/44b9aa2e-b712-5e97-9491-39614610dee2",
       "title": "Activity Poster",
       "liveUrl": "https://digital-experiences.aem-screens.net/content/screens/express/channels/44b9aa2e-b712-5e97-9491-39614610dee2.html"
+    },
+    {
+      "manifestPath": "/content/screens/express/channels/50ec0515-9a2a-4817-a7a5-f14a00880ddb.manifest.json",
+      "lastModified": "2024-04-24T18:22:03.236Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "express",
+          "path": "/content/screens/express"
+        },
+        {
+          "title": "channels",
+          "path": "/content/screens/express/channels"
+        }
+      ],
+      "externalId": "/content/screens/express/channels/50ec0515-9a2a-4817-a7a5-f14a00880ddb",
+      "title": "Express Test",
+      "liveUrl": "https://digital-experiences.aem-screens.net/content/screens/express/channels/50ec0515-9a2a-4817-a7a5-f14a00880ddb.html"
     },
     {
       "manifestPath": "/content/screens/express/channels/a6b6abb9-99b7-5afc-ad43-ef940b7c0e10.manifest.json",
