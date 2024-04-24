@@ -44,7 +44,7 @@
     },
     {
       "manifestPath": "/content/screens/express/channels/50ec0515-9a2a-4817-a7a5-f14a00880ddb.manifest.json",
-      "lastModified": "2024-04-24T18:22:03.236Z",
+      "lastModified": "2024-04-24T18:22:12.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -104,6 +104,27 @@
       "externalId": "/content/screens/express/channels/ec747039-c505-5975-9c63-7e5e7259db01",
       "title": "Ice Cream Poster",
       "liveUrl": "https://digital-experiences.aem-screens.net/content/screens/express/channels/ec747039-c505-5975-9c63-7e5e7259db01.html"
+    },
+    {
+      "manifestPath": "/content/screens/express/channels/fa591999-b5a5-5120-8b86-e6566ff39c20.manifest.json",
+      "lastModified": "2024-04-24T22:45:24.246Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "express",
+          "path": "/content/screens/express"
+        },
+        {
+          "title": "channels",
+          "path": "/content/screens/express/channels"
+        }
+      ],
+      "externalId": "/content/screens/express/channels/fa591999-b5a5-5120-8b86-e6566ff39c20",
+      "title": "DREAM TEAM - Presentation Test",
+      "liveUrl": "https://digital-experiences.aem-screens.net/content/screens/express/channels/fa591999-b5a5-5120-8b86-e6566ff39c20.html"
     }
   ],
   "metadata": {

@@ -1,0 +1,99 @@
+{
+  "version": "3.0",
+  "timestamp": 1713998724246,
+  "entries": [
+    {
+      "path": "/blocks/carousel/carousel.css",
+      "timestamp": 1711548936000
+    },
+    {
+      "path": "/blocks/carousel/carousel.js",
+      "timestamp": 1711548936000
+    },
+    {
+      "path": "/blocks/carousel/utils.js",
+      "timestamp": 1711548936000
+    },
+    {
+      "path": "/blocks/columns/columns.css",
+      "timestamp": 1711548936000
+    },
+    {
+      "path": "/blocks/columns/columns.js",
+      "timestamp": 1711548936000
+    },
+    {
+      "path": "/content/screens/express/assets/fa591999-b5a5-5120-8b86-e6566ff39c20-0.jpg",
+      "timestamp": 1713998630000
+    },
+    {
+      "path": "/content/screens/express/assets/fa591999-b5a5-5120-8b86-e6566ff39c20-1.jpg",
+      "timestamp": 1713998633000
+    },
+    {
+      "path": "/content/screens/express/assets/fa591999-b5a5-5120-8b86-e6566ff39c20-2.jpg",
+      "timestamp": 1713998633000
+    },
+    {
+      "path": "/content/screens/express/assets/fa591999-b5a5-5120-8b86-e6566ff39c20-3.jpg",
+      "timestamp": 1713998633000
+    },
+    {
+      "path": "/content/screens/express/assets/fa591999-b5a5-5120-8b86-e6566ff39c20-4.jpg",
+      "timestamp": 1713998631000
+    },
+    {
+      "path": "/content/screens/express/assets/fa591999-b5a5-5120-8b86-e6566ff39c20-5.jpg",
+      "timestamp": 1713998630000
+    },
+    {
+      "path": "/content/screens/express/assets/fa591999-b5a5-5120-8b86-e6566ff39c20-6.jpg",
+      "timestamp": 1713998630000
+    },
+    {
+      "path": "/content/screens/express/assets/fa591999-b5a5-5120-8b86-e6566ff39c20-7.jpg",
+      "timestamp": 1713998634000
+    },
+    {
+      "path": "/content/screens/express/assets/fa591999-b5a5-5120-8b86-e6566ff39c20-8.jpg",
+      "timestamp": 1713998631000
+    },
+    {
+      "path": "/content/screens/express/assets/fa591999-b5a5-5120-8b86-e6566ff39c20-9.jpg",
+      "timestamp": 1713998634000
+    },
+    {
+      "path": "/content/screens/express/channels/fa591999-b5a5-5120-8b86-e6566ff39c20.html",
+      "timestamp": 1713998724246
+    },
+    {
+      "path": "/content/screens/express/schedules/schedule-fa591999-b5a5-5120-8b86-e6566ff39c20.json",
+      "timestamp": 1713998646000
+    },
+    {
+      "path": "/scripts/delayed.js",
+      "timestamp": 1711548936000
+    },
+    {
+      "path": "/scripts/lib-franklin.js",
+      "timestamp": 1711548936000
+    },
+    {
+      "path": "/scripts/scripts.js",
+      "timestamp": 1711548936000
+    },
+    {
+      "path": "/styles/styles.css",
+      "timestamp": 1711548936000
+    }
+  ],
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "express",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "express"
+  }
+}
